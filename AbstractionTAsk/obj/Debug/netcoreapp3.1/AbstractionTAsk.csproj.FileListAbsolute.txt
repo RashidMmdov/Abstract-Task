@@ -1,0 +1,14 @@
+C:\Users\resid\source\repos\AbstractionTAsk\AbstractionTAsk\bin\Debug\netcoreapp3.1\AbstractionTAsk.exe
+C:\Users\resid\source\repos\AbstractionTAsk\AbstractionTAsk\bin\Debug\netcoreapp3.1\AbstractionTAsk.deps.json
+C:\Users\resid\source\repos\AbstractionTAsk\AbstractionTAsk\bin\Debug\netcoreapp3.1\AbstractionTAsk.runtimeconfig.json
+C:\Users\resid\source\repos\AbstractionTAsk\AbstractionTAsk\bin\Debug\netcoreapp3.1\AbstractionTAsk.runtimeconfig.dev.json
+C:\Users\resid\source\repos\AbstractionTAsk\AbstractionTAsk\bin\Debug\netcoreapp3.1\AbstractionTAsk.dll
+C:\Users\resid\source\repos\AbstractionTAsk\AbstractionTAsk\bin\Debug\netcoreapp3.1\AbstractionTAsk.pdb
+C:\Users\resid\source\repos\AbstractionTAsk\AbstractionTAsk\obj\Debug\netcoreapp3.1\AbstractionTAsk.csproj.AssemblyReference.cache
+C:\Users\resid\source\repos\AbstractionTAsk\AbstractionTAsk\obj\Debug\netcoreapp3.1\AbstractionTAsk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\source\repos\AbstractionTAsk\AbstractionTAsk\obj\Debug\netcoreapp3.1\AbstractionTAsk.AssemblyInfoInputs.cache
+C:\Users\resid\source\repos\AbstractionTAsk\AbstractionTAsk\obj\Debug\netcoreapp3.1\AbstractionTAsk.AssemblyInfo.cs
+C:\Users\resid\source\repos\AbstractionTAsk\AbstractionTAsk\obj\Debug\netcoreapp3.1\AbstractionTAsk.csproj.CoreCompileInputs.cache
+C:\Users\resid\source\repos\AbstractionTAsk\AbstractionTAsk\obj\Debug\netcoreapp3.1\AbstractionTAsk.dll
+C:\Users\resid\source\repos\AbstractionTAsk\AbstractionTAsk\obj\Debug\netcoreapp3.1\AbstractionTAsk.pdb
+C:\Users\resid\source\repos\AbstractionTAsk\AbstractionTAsk\obj\Debug\netcoreapp3.1\AbstractionTAsk.genruntimeconfig.cache
